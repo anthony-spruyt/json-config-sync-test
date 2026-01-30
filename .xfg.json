@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "configs": {
+    "integration-test-github": [
+      "my.config.json",
+      "second-config.yaml"
+    ]
+  }
+}
